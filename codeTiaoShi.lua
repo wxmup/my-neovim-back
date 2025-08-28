@@ -11,10 +11,10 @@ return {
     startinsert = false,
     term = {
         position = "bot",
-        size = 15,
+        size = 10,
     },
     float = {
-        border = "single",
+        border = "rounded",
         height = 0.8,
         width = 0.8,
         x = 0.5,
